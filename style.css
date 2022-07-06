@@ -109,3 +109,8 @@ section {
     background: lightgoldenrodyellow;
     margin-bottom: 5%;
 }
+
+.f {
+    text-align: center;
+    background: blue;
+}
