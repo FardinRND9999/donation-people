@@ -1,0 +1,111 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#paragraph {
+    color: azure;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box-outer {
+    width: 800px;
+    height: 200px;
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-image: url(hero.png);
+}
+
+.donate-today {
+    margin-top: 5%;
+}
+
+.input-button {
+    width: 100%;
+}
+
+.they {
+    margin-top: 5%;
+}
+
+.happy {
+    margin-top: 5%;
+}
+
+.end {
+    margin-top: 5%
+}
+
+.go {
+    margin-top: 5%;
+    display: flex;
+    text-align: center;
+    margin: 5px;
+    width: auto;
+    border: 3px;
+
+}
+
+.help {
+    background: rgb(243, 155, 155);
+
+    margin-right: 4%;
+}
+
+.help1 {
+    margin-right: 4%;
+    width: 300px;
+    padding: 20px;
+    background: lightcyan;
+
+
+}
+
+.help2 {
+    background: lightgoldenrodyellow;
+    margin-right: 4%;
+}
+
+.heading-set {
+    text-align: center;
+}
+
+
+
+
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.type {
+    border-width: 50%;
+    border: none;
+}
+
+.half-width {
+    width: 30%;
+    width: 800px;
+    height: 200px;
+    padding-left: 20%;
+
+
+}
+
+.half-width img {
+    width: 50%;
+}
+
+.box {
+    background: lightgoldenrodyellow;
+    margin-bottom: 5%;
+}
